@@ -2,7 +2,7 @@
 
 ## Скачать
 
-**[Скачать WindowsShutdown.exe](https://github.com/MaksimDenisovRussia/windows-shutdown/releases/latest/download/WindowsShutdown.exe)**
+**[Скачать WindowsShutdown.exe](https://github.com/MaksimDenisov31/windows-shutdown/releases/latest/download/WindowsShutdown.exe)**
 
 Ссылка скачивает только готовый EXE. Скачивать весь проект и устанавливать программу не нужно. Сохраните файл и запускайте при необходимости выключить компьютер через 30 секунд.
 
